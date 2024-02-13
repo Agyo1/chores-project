@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background: #000;
+    font-family: JetBrains Mono, monospace;
+}
+.back {
+    color: white;
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    cursor: pointer;
+    position: absolute;
+    text-decoration: none;
+}
+.para {
+    position: absolute;
+    left: 25vw;
+    color: white;
+    width: 55vw;
+    margin-top: 7rem;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+.para-img {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
