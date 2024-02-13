@@ -19,7 +19,7 @@ function showDoc() {
 
     // Display the Google Document in the iframe
     const docFrame = document.getElementById("docFrame");
-    docFrame.src = "https://docs.google.com/document/d/1XaV-PWbP9bbIkwW3JM51Ds5FBlBJXXoYfT0c8Ny0MOs/edit?usp=sharing";
+    docFrame.src = "###REDACTED###";
 }
 function closeFrame() {
     const overlay = document.getElementById("overlay");
